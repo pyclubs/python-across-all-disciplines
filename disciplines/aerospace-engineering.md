@@ -7,7 +7,7 @@ coverY: 0
 
 # 🚀 Aerospace Engineering
 
-## **Astropy**
+### **Astropy**
 
 * **Description**: A community-developed core Python package for Astronomy.
 * **Use Case**: Astronomy and astrophysics-related data analysis, visualization, and computation.
@@ -16,7 +16,7 @@ coverY: 0
 * **GitHub Repository**: [Astropy GitHub](https://github.com/astropy/astropy)
 * **Managed by**: NumFOCUS
 
-## **AeroPython**
+### **AeroPython**
 
 * **Description**: Introduction to aerodynamics using Python, focusing on classical aerodynamic theory and panel methods.
 * **Use Case**: Understanding basic aerodynamics and aerodynamic shape optimization.
@@ -24,7 +24,7 @@ coverY: 0
 * **Creator**: Lorena A. Barba Group - [Barba Group Website](http://lorenabarba.com/)
 * **GitHub Repository**: [AeroPython GitHub](https://github.com/barbagroup/AeroPython)
 
-## **OpenMDAO**
+### **OpenMDAO**
 
 * **Description**: An open-source framework for multidisciplinary optimization.
 * **Use Case**: Aerospace design optimization integrating various disciplines and optimization techniques.
@@ -33,7 +33,7 @@ coverY: 0
 * **GitHub Repository**: [OpenMDAO GitHub](https://github.com/OpenMDAO/OpenMDAO)
 * **Managed by**: NumFOCUS
 
-## **PyFME**
+### **PyFME**
 
 * **Description**: Python Flight Mechanics Engine, a tool for aircraft dynamics simulation.
 * **Use Case**: Aircraft dynamics modeling and simulation, including response to control inputs and environmental conditions.
@@ -41,7 +41,7 @@ coverY: 0
 * **Creator**: AeroPython Team - [AeroPython GitHub](https://github.com/AeroPython)
 * **GitHub Repository**: [PyFME GitHub](https://github.com/AeroPython/PyFME)
 
-## **GPkit**
+### **GPkit**
 
 * **Description**: Python package for defining and manipulating geometric programming models.
 * **Use Case**: Aerospace vehicle design optimization for performance, cost, and design trade-offs.
@@ -49,7 +49,7 @@ coverY: 0
 * **Creator**: MIT Department of Aeronautics and Astronautics - [MIT AeroAstro Website](http://aeroastro.mit.edu/)
 * **GitHub Repository**: [GPkit GitHub](https://github.com/convexengineering/gpkit)
 
-## **SU2**
+### **SU2**
 
 * **Description**: Open-source suite for multi-physics simulation and design.
 * **Use Case**: Fluid dynamics simulation and shape optimization in aerospace and other fields.
@@ -57,7 +57,7 @@ coverY: 0
 * **Creator**: Stanford University - [Stanford University Website](https://www.stanford.edu/)
 * **GitHub Repository**: [SU2 GitHub](https://github.com/su2code/SU2)
 
-## **mshr**
+### **mshr**
 
 * **Description**: Mesh generation component for FEniCS, useful in computational fluid dynamics.
 * **Use Case**: Creating complex 2D and 3D mesh geometries for aerodynamics simulations.

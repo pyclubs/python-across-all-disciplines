@@ -1,8 +1,10 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxBY2NvdW50aW5nJTIwYW5kJTIwRmluYW5jZXxlbnwwfHx8fDE3MDY2MjM1NjJ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # 📒 Accounting and Finance
-
-Certainly! Here's the combined list of Python libraries and tools for Accounting and Finance, organized alphabetically:
-
-***
 
 ### FinancePy
 
