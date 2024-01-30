@@ -33,3 +33,11 @@ Our mission is to create a hub where learners from all fields - be it Computer S
 * **Stay Engaged**: Engage with other contributors, suggest improvements, and stay updated with the latest in Python applications across various fields.
 
 **Together, we're building a resource that enhances learning and fosters an interdisciplinary approach to Python programming.** Join us on this exciting journey, and let's explore the endless possibilities of Python in academia!
+
+
+
+***
+
+## License
+
+Content from this documentation is licensed under the[ Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
