@@ -95,13 +95,11 @@ coverY: 0
 * **Description**: A process-based discrete-event simulation framework.
 * **Use Case**: Simulating automotive production lines and logistics to optimize manufacturing processes.
 * **Documentation**: [SimPy Documentation](https://simpy.readthedocs.io/en/latest/)
-* **GitHub Repository**: \[SimPy GitHub]\(https://
-
-github.com/simpy/simpy)
+* **GitHub Repository**: [SimPy GitHub](https://github.com/simpy/simpy)
 
 ### TensorFlow
 
-* **Description**: An end-to-end open source platform for machine learning.
+* **Description**: An end-to-end open-source platform for machine learning.
 * **Use Case**: Developing deep learning models for applications such as autonomous driving and vehicle recognition systems.
 * **Documentation**: [TensorFlow Documentation](https://www.tensorflow.org/overview)
 * **GitHub Repository**: [TensorFlow GitHub](https://github.com/tensorflow/tensorflow)

@@ -101,10 +101,7 @@ coverY: 0
 
 * **Description**: Statistical modeling and econometrics in Python.
 * **Use Case**: Statistical analysis and hypothesis testing in archaeological research.
-* **Documentation**: \[
-
-Statsmodels Documentation]\(https://www.statsmodels.org/stable/index.html)
-
+* **Documentation**: [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)&#x20;
 * **GitHub Repository**: [Statsmodels GitHub](https://github.com/statsmodels/statsmodels)
 
 ### Vega

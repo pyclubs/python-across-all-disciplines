@@ -18,7 +18,6 @@ coverY: 0
 * **Description**: Based on a scientific study that presents a flavor network to understand and explore food pairings.
 * **Use Case**: Analyzing and predicting flavor pairings and recipe component compatibility.
 * **Documentation**: [Flavor Network Research Paper](https://www.nature.com/articles/srep00196)
-* **No direct GitHub Repository, but the dataset and information can be accessed through the research paper.**
 
 ### Matplotlib
 

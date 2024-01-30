@@ -94,9 +94,7 @@ coverY: 0
 * **Description**: An open-source software library for advanced natural language processing.
 * **Use Case**: Text processing and analysis in communication studies, such as speech and language pattern analysis.
 * **Documentation**: [spaCy Documentation](https://spacy.io/)
-* **GitHub Repository**: \[
-
-spaCy GitHub]\(https://github.com/explosion/spaCy)
+* **GitHub Repository**: [spaCy GitHub](https://github.com/explosion/spaCy)
 
 ### Tweepy
 

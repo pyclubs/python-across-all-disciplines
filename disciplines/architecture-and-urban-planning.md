@@ -98,10 +98,7 @@ coverY: 0
 ### Shapely
 
 * **Description**: A library for manipulation and analysis of planar geometric objects.
-* **Use Case**: Geometric operations
-
-, shape analysis, and geometric data processing in architectural design.
-
+* **Use Case**: Geometric operations, shape analysis, and geometric data processing in architectural design.
 * **Documentation**: [Shapely Documentation](https://shapely.readthedocs.io/en/stable/)
 * **GitHub Repository**: [Shapely GitHub](https://github.com/Toblerity/Shapely)
 

@@ -93,10 +93,7 @@ coverY: 0
 ### Vega
 
 * **Description**: A visualization grammar for creating, saving, and sharing interactive visualization designs.
-* **Use Case**: Advanced data visualization in art history and visual arts research
-
-.
-
+* **Use Case**: Advanced data visualization in art history and visual arts research.
 * **Documentation**: [Vega Documentation](https://vega.github.io/vega/)
 * **GitHub Repository**: [Vega GitHub](https://github.com/vega/vega)
 

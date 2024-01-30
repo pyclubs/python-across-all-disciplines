@@ -97,9 +97,7 @@ coverY: 0
 * **Documentation**: [Seaborn Documentation](https://seaborn.pydata.org/)
 * **GitHub Repository**: [Seaborn GitHub](https://github.com/mwaskom/seaborn)
 
-###
-
-Statsmodels
+### Statsmodels
 
 * **Description**: Statistical modeling and econometrics in Python.
 * **Use Case**: Econometric and statistical analysis of agricultural data.
