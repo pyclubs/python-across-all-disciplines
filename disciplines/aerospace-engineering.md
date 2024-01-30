@@ -7,55 +7,47 @@ coverY: 0
 
 # 🚀 Aerospace Engineering
 
-### **Astropy**
+Certainly! Here's a comprehensive and alphabetically organized list of at least ten Python libraries and tools that are particularly useful in the field of Aerospace Engineering:
 
-* **Description**: A community-developed core Python package for Astronomy.
-* **Use Case**: Astronomy and astrophysics-related data analysis, visualization, and computation.
-* **Documentation**: [Astropy Documentation](https://www.astropy.org/)
-* **Creator**: Astropy Project - [Astropy Project Website](https://www.astropy.org/team.html)
-* **GitHub Repository**: [Astropy GitHub](https://github.com/astropy/astropy)
-* **Managed by**: NumFOCUS
+***
 
-### **AeroPython**
+## Aerospace Engineering
+
+### AeroPython
 
 * **Description**: Introduction to aerodynamics using Python, focusing on classical aerodynamic theory and panel methods.
 * **Use Case**: Understanding basic aerodynamics and aerodynamic shape optimization.
 * **Documentation**: [AeroPython GitHub](https://github.com/barbagroup/AeroPython)
-* **Creator**: Lorena A. Barba Group - [Barba Group Website](http://lorenabarba.com/)
 * **GitHub Repository**: [AeroPython GitHub](https://github.com/barbagroup/AeroPython)
 
-### **OpenMDAO**
+### Astropy
 
-* **Description**: An open-source framework for multidisciplinary optimization.
-* **Use Case**: Aerospace design optimization integrating various disciplines and optimization techniques.
-* **Documentation**: [OpenMDAO Documentation](https://openmdao.org/)
-* **Creator**: NASA Glenn Research Center - [NASA Glenn Website](https://www.nasa.gov/centers/glenn/home/index.html)
-* **GitHub Repository**: [OpenMDAO GitHub](https://github.com/OpenMDAO/OpenMDAO)
+* **Description**: A community-developed core Python package for Astronomy and Astrophysics.
+* **Use Case**: Used for astronomy and astrophysics-related data analysis, visualization, and computation.
+* **Documentation**: [Astropy Documentation](https://www.astropy.org/)
+* **GitHub Repository**: [Astropy GitHub](https://github.com/astropy/astropy)
 * **Managed by**: NumFOCUS
 
-### **PyFME**
+### DARTpy
 
-* **Description**: Python Flight Mechanics Engine, a tool for aircraft dynamics simulation.
-* **Use Case**: Aircraft dynamics modeling and simulation, including response to control inputs and environmental conditions.
-* **Documentation**: [PyFME GitHub](https://github.com/AeroPython/PyFME)
-* **Creator**: AeroPython Team - [AeroPython GitHub](https://github.com/AeroPython)
-* **GitHub Repository**: [PyFME GitHub](https://github.com/AeroPython/PyFME)
+* **Description**: A Python binding for DART (Dynamic Animation and Robotics Toolkit), focusing on physics simulation.
+* **Use Case**: Useful in aerospace for simulation of flight dynamics and robotics.
+* **Documentation**: [DARTpy GitHub](https://github.com/dartsim/dartpy)
+* **GitHub Repository**: [DARTpy GitHub](https://github.com/dartsim/dartpy)
 
-### **GPkit**
+### GPkit
 
 * **Description**: Python package for defining and manipulating geometric programming models.
 * **Use Case**: Aerospace vehicle design optimization for performance, cost, and design trade-offs.
 * **Documentation**: [GPkit Documentation](https://gpkit.readthedocs.io/en/latest/)
-* **Creator**: MIT Department of Aeronautics and Astronautics - [MIT AeroAstro Website](http://aeroastro.mit.edu/)
 * **GitHub Repository**: [GPkit GitHub](https://github.com/convexengineering/gpkit)
 
-### **SU2**
+### MDO Lab Tools
 
-* **Description**: Open-source suite for multi-physics simulation and design.
-* **Use Case**: Fluid dynamics simulation and shape optimization in aerospace and other fields.
-* **Documentation**: [SU2 Documentation](https://su2code.github.io/)
-* **Creator**: Stanford University - [Stanford University Website](https://www.stanford.edu/)
-* **GitHub Repository**: [SU2 GitHub](https://github.com/su2code/SU2)
+* **Description**: A collection of tools developed by the Multidisciplinary Design Optimization (MDO) Lab at the University of Michigan.
+* **Use Case**: Used for various aspects of aerospace design and optimization.
+* **Documentation**: [MDO Lab GitHub](https://github.com/mdolab)
+* **GitHub Repository**: [MDO Lab GitHub](https://github.com/mdolab)
 
 ### **mshr**
 
@@ -64,4 +56,39 @@ coverY: 0
 * **Documentation**: [mshr Documentation](https://bitbucket.org/fenics-project/mshr/src/master/)
 * **Creator**: FEniCS Project - [FEniCS Website](https://fenicsproject.org/)
 * **GitHub Repository**: [mshr GitHub](https://bitbucket.org/fenics-project/mshr/src/master/)
+
+### OpenAeroStruct
+
+* **Description**: A lightweight structural analysis and optimization tool geared towards conceptual design of wing structures.
+* **Use Case**: Integrated aerostructural optimization in the early stages of aircraft design.
+* **Documentation**: [OpenAeroStruct Documentation](https://mdolab-openaerostruct.readthedocs.io/en/latest/)
+* **GitHub Repository**: [OpenAeroStruct GitHub](https://github.com/mdolab/OpenAeroStruct)
+
+### OpenMDAO
+
+* **Description**: An open-source framework for efficient multidisciplinary optimization.
+* **Use Case**: Used in aerospace design optimization, enabling integration of various disciplines and optimization techniques.
+* **Documentation**: [OpenMDAO Documentation](https://openmdao.org/)
+* **GitHub Repository**: [OpenMDAO GitHub](https://github.com/OpenMDAO/OpenMDAO)
+* **Managed by**: NumFOCUS
+
+### PyFME
+
+* **Description**: Python Flight Mechanics Engine, a tool for simulating aircraft dynamics.
+* **Use Case**: Useful for aircraft dynamics modeling and simulation, including response to control inputs and environmental conditions.
+* **Documentation**: [PyFME GitHub](https://github.com/AeroPython/PyFME)
+* **GitHub Repository**: [PyFME GitHub](https://github.com/AeroPython/PyFME)
+
+### SU2
+
+* **Description**: An open-source suite for multi-physics simulation and design.
+* **Use Case**: Primarily used for fluid dynamics simulation, shape optimization, and design in aerospace and other fields.
+* **Documentation**: [SU2 Documentation](https://su2code.github.io/)
+* **GitHub Repository**: [SU2 GitHub](https://github.com/su2code/SU2)
+
+### XFLR5
+
+* **Description**: An analysis tool for airfoils, wings, and planes operating at low Reynolds Numbers.
+* **Use Case**: Used for designing and analyzing subsonic aerodynamics of wings and airfoils in aerospace engineering.
+* **Documentation**: [XFLR5 Website](http://www.xflr5.tech/xflr5.htm)
 
