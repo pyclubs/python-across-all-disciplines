@@ -55,12 +55,12 @@ coverY: 0
 * **Documentation**: [Plotly Documentation](https://plotly.com/python/)
 * **GitHub Repository**: [Plotly GitHub](https://github.com/plotly/plotly.py)
 
-### PyPDF2
+### PyPDF
 
 * **Description**: A library for working with PDF files in Python.
 * **Use Case**: Extracting text from PDF documents like legal texts, policy papers, and environmental reports for analysis.
-* **Documentation**: [PyPDF2 Documentation](https://pythonhosted.org/PyPDF2/)
-* **GitHub Repository**: [PyPDF2 GitHub](https://github.com/mstamy2/PyPDF2)
+* **Documentation**: [PyPDF Documentation](https://pypdf.readthedocs.io/en/latest/)
+* **GitHub Repository**: [PyPDF GitHub](https://github.com/py-pdf/pypdf/blob/main/docs/index.rst)
 
 ### Scikit-learn
 

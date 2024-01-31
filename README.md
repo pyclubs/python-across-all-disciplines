@@ -1,5 +1,5 @@
 ---
-description: 🌟 Welcome to the Python Libraries for University Students.
+description: 🌟Python Libraries students can make use of to aid their studies.
 cover: >-
   https://images.unsplash.com/photo-1524178232363-1fb2b075b655?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx1bml2ZXJzaXR5JTIwc3R1ZGVudHN8ZW58MHx8fHwxNzA2NjExNjE0fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
