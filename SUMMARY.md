@@ -30,7 +30,7 @@
 * [📰 Journalism and Media Studies](disciplines/journalism-and-media-studies.md)
 * [⚖️ Law](disciplines/law.md)
 * [🗣️ Linguistics](disciplines/linguistics.md)
-* [🌊 Maritime Studies and Oceanography](disciplines/maritime-studies-and-oceanography.md)
+* [🌊 Maritime Studies and Oceography](disciplines/maritime-studies-and-oceography.md)
 * [➗ Mathematics](disciplines/mathematics.md)
 * [🛠️ Mechanical Engineering](disciplines/mechanical-engineering.md)
 * [🎵 Music and Musicology](disciplines/music-and-musicology.md)
